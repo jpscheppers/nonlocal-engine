@@ -1,0 +1,32 @@
+.code  {  background-color: rgb(255, 186, 228);
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            color: black;
+          padding: 0.5rem;
+          font-family: monospace;
+          font-size: 1rem;
+        }
+
+
+video {
+  max-width: 100%;
+  height: auto;
+  align-self: center;
+}
+
+text {color: #fcfcfc;}
+html {background-color: rgb(115, 100, 115);
+      color: #FFF;
+    padding: 2rem;
+  }
+
+h1, h2, h3, h4 {
+  border: none;
+  border-bottom: 0.1rem;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-style: dashed;
+  border-color: rgba(200, 200, 200, 0.5);
+}
